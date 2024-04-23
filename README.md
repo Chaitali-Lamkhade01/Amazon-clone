@@ -9,7 +9,7 @@ The Amazon Clone project is a web-based e-commerce platform that replicates the 
 * Javascript
 
 
-#Conclusion:
+# Conclusion:
 The Amazon Clone project aims to provide users with an immersive e-commerce experience, allowing them to browse, search, and purchase products with ease. 
 
 
